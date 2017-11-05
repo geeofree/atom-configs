@@ -1,0 +1,37 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#607d8b"
+      predefinedColor: "Blue Grey"
+    tabs:
+      compactTabs: true
+      noTabMinWidth: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    autoHideMenuBar: true
+    closeEmptyWindows: false
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 17
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "f68a0407-bb76-4d5c-b32f-7a230d3bfe5e"
+  fonts:
+    fontFamily: "FiraCode Light"
+  pigments:
+    markerType: "native-underline"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
